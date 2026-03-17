@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Mary 👋
 
-<!--
-**MaryNarouei/MaryNarouei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mid-level developer and aspiring researcher with a background in Electrical Engineering,
+working at the intersection of machine learning and real-world impact — particularly in 
+Reinforcement Learning, Medical AI, AI Security, and Language Models.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+Building a **real-time dashboard** to track and visualize data gathered across multiple platforms —
+combining my love for data pipelines and clean, actionable interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I use
+Python · Machine Learning · Data Science · AI/ML Research
+
+## 🎓 Background & Interests
+My EE roots give me a strong foundation in signals, systems, and hardware-software thinking —
+which I bring into everything from model design to research. I'm actively looking for
+**research positions** and **new opportunities** where I can push the boundaries of applied AI.
+
+## 📬 Let's connect
+- 💼 (https://www.linkedin.com/in/marynarouei/)](#)
+- 📧 [Mary.narouei@gmail.com](#)
+
+---
+💡 *Open to research roles, collaborations, and internships in ML/AI.*
