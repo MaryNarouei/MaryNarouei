@@ -1,4 +1,4 @@
-# Hey there!, I'm Mary ^-^
+# Hey there! I'm Mary! ^-^
 
 A Jack of all trades but if we're only talking coding and git related
 I'm a mid-level developer and aspiring researcher with a background in Electrical Engineering,
